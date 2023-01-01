@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE_GF0000" x="0" y="0" width="535" height="690" frameX="-40" frameY="-18" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0001" x="0" y="0" width="535" height="690" frameX="-40" frameY="-18" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0002" x="535" y="0" width="531" height="699" frameX="-38" frameY="-9" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0003" x="535" y="0" width="531" height="699" frameX="-38" frameY="-9" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0004" x="1066" y="0" width="519" height="701" frameX="-18" frameY="-7" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0005" x="1066" y="0" width="519" height="701" frameX="-18" frameY="-7" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0006" x="0" y="701" width="498" height="707" frameX="-5" frameY="-1" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0007" x="0" y="701" width="498" height="707" frameX="-5" frameY="-1" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0008" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0009" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0010" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0011" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0012" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0013" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0014" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+	<SubTexture name="IDLE_GF0015" x="498" y="701" width="488" height="708" frameX="0" frameY="0" frameWidth="575" frameHeight="708"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE_Jesus"
+		},
+		{
+			"offsets": [
+				30,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-16,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				90,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jesus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jesus",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		67,
+		61
+	],
+	"camera_position": [
+		-40,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

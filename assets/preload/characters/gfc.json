@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "idle left"
+		},
+		{
+			"offsets": [
+				-18,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "idle right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfcaida",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

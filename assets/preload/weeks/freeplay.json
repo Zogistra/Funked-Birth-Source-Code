@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"intruder at birth",
+			"jose",
+			[
+				168,
+				66,
+				66
+			]
+		],
+		[
+			"broken commandment",
+			"no",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"my son",
+			"jesus",
+			[
+				133,
+				67,
+				61
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "freeplay"
+}

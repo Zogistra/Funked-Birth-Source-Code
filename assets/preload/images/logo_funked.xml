@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo_funked.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo0000" x="0" y="0" width="713" height="699" frameX="-27" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0001" x="0" y="0" width="713" height="699" frameX="-27" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0002" x="713" y="0" width="767" height="727"/>
+	<SubTexture name="logo0003" x="713" y="0" width="767" height="727"/>
+	<SubTexture name="logo0004" x="1480" y="0" width="745" height="720" frameX="-11" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0005" x="1480" y="0" width="745" height="720" frameX="-11" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0006" x="2225" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0007" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0008" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0009" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0010" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0011" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0012" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+	<SubTexture name="logo0013" x="2960" y="0" width="735" height="713" frameX="-16" frameY="0" frameWidth="767" frameHeight="727"/>
+</TextureAtlas>

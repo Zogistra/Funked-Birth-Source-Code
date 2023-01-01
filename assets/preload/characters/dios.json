@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dios_Idle"
+		},
+		{
+			"offsets": [
+				295,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				190,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-30,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				334,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dios",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "no",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-480,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

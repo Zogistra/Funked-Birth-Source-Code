@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfdiavloooo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="left dance0000" x="0" y="0" width="580" height="691" frameX="0" frameY="-3" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0001" x="0" y="0" width="580" height="691" frameX="0" frameY="-3" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0002" x="580" y="0" width="580" height="691" frameX="0" frameY="-3" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0003" x="1160" y="0" width="565" height="684" frameX="-12" frameY="-10" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0004" x="1725" y="0" width="565" height="684" frameX="-12" frameY="-10" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0005" x="2290" y="0" width="559" height="690" frameX="-22" frameY="-4" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0006" x="2290" y="0" width="559" height="690" frameX="-22" frameY="-4" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0007" x="2849" y="0" width="551" height="689" frameX="-30" frameY="-5" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0008" x="3400" y="0" width="555" height="692" frameX="-32" frameY="-2" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0009" x="0" y="692" width="555" height="692" frameX="-32" frameY="-2" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0010" x="0" y="692" width="555" height="692" frameX="-32" frameY="-2" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0011" x="0" y="692" width="555" height="692" frameX="-32" frameY="-2" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0012" x="555" y="692" width="555" height="694" frameX="-32" frameY="0" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="left dance0013" x="555" y="692" width="555" height="694" frameX="-32" frameY="0" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="right dance0000" x="1110" y="692" width="580" height="695" frameX="-24" frameY="-16" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0001" x="1110" y="692" width="580" height="695" frameX="-24" frameY="-16" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0002" x="1690" y="692" width="601" height="709" frameX="-15" frameY="0" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0003" x="1690" y="692" width="601" height="709" frameX="-15" frameY="0" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0004" x="2291" y="692" width="586" height="711" frameX="0" frameY="0" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0005" x="2291" y="692" width="586" height="711" frameX="0" frameY="0" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0006" x="2877" y="692" width="569" height="701" frameX="-2" frameY="-10" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0007" x="3446" y="692" width="555" height="694" frameX="-4" frameY="-17" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0008" x="555" y="692" width="555" height="694" frameX="-4" frameY="-17" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="right dance0009" x="555" y="692" width="555" height="694" frameX="-4" frameY="-17" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="right dance0010" x="555" y="692" width="555" height="694" frameX="-4" frameY="-17" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="right dance0011" x="555" y="692" width="555" height="694" frameX="-4" frameY="-17" frameWidth="587" frameHeight="694"/>
+	<SubTexture name="right dance0012" x="0" y="1403" width="555" height="692" frameX="0" frameY="-19" frameWidth="616" frameHeight="711"/>
+	<SubTexture name="right dance0013" x="0" y="1403" width="555" height="692" frameX="0" frameY="-19" frameWidth="616" frameHeight="711"/>
+</TextureAtlas>
